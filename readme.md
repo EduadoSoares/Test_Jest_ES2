@@ -1,3 +1,3 @@
 # Instruções para rodar projeto: 
-npm i
+npm i;
 npm run test
